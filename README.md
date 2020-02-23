@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## Playing with git	
 
 This is the first attemp to compare two files with git's tools.
+
+## new attemp.
+
+Another attemp.
